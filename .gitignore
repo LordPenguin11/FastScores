@@ -1,0 +1,15 @@
+# Git directories
+admin/.git/
+*/.git/
+
+# Common ignores
+.DS_Store
+node_modules/
+*.log
+*.out
+*.swp
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local 
